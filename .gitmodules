@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yokotaerik/doceriaDaNanna_frontend
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/yokotaerik/doceriaDaNanna_mobile
+[submodule "api"]
+	path = api
+	url = https://github.com/yokotaerik/doceriaDaNanna_backend
